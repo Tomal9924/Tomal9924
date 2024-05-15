@@ -2,6 +2,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=8DF75D&background=FF56C300&random=false&width=435&lines=Flutter+developer" alt="Typing SVG" /></a>
 
+🔭 I’m currently working on [Live streaming (Flutter)] app
+🌱 I’m currently learning [iOS development using swift 5]
+📫 How to reach me: tanvir.piistech@gmail.com
+
 
 <!--
 **Tomal9924/Tomal9924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
