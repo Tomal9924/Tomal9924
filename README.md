@@ -2,9 +2,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=8DF75D&background=FF56C300&random=false&width=435&lines=Flutter+developer" alt="Typing SVG" /></a>
 
--🔭 I’m currently working on [Live streaming (Flutter)] app<br />
--🌱 I’m currently learning [iOS development using swift 5]<br />
--📫 How to reach me: tanvir.piistech@gmail.com<br />
+💬 Topics I cover<br />
+
+• Programming languages: Dart,Java(Native android development)<br />
+• Platform: Flutter<br />
+• Database: Hydrated bloc , Hive, SQFLite, Firestore<br />
+• Design patterns: Cubit, Bloc, Provider, Clean architecture<br />
+• Services: RESTful API’S(http) •Git •Firebase push notification service •Firebase authentication service <br />•Google ML-Kit service etc •Live streaming •Cart service •Deeplinking •Data caching using Hy-Darated bloc
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tomal9924&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
