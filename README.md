@@ -8,7 +8,7 @@
 • Platform: Flutter<br />
 • Database: Hydrated bloc , Hive, SQFLite, Firestore<br />
 • Design patterns: Cubit, Bloc, Provider, Clean architecture<br />
-• Services: RESTful API’S(http) •Git •Firebase push notification service •Firebase authentication service <br />•Google ML-Kit service etc •Live streaming •Cart service •Deeplinking •Data caching using Hy-Darated bloc
+• Services: RESTful API’S(http) •Git •Firebase push notification service •Firebase authentication service •Google ML-Kit service etc •Live streaming •Cart service •Deeplinking •Data caching using Hy-Darated bloc
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tomal9924&theme=dark)](https://git.io/streak-stats)
 
