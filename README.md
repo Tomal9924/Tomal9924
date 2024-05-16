@@ -10,7 +10,8 @@
 • Design patterns: Cubit, Bloc, Provider, Clean architecture<br />
 • Services: RESTful API’S(http) •Git •Firebase push notification service •Firebase authentication service •Google ML-Kit service etc •Live streaming •Cart service •Deeplinking •Data caching using Hy-Darated bloc
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tomal9924&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tomal9924&theme=dark)](https://git.io/streak-stats)<br /><br />
+[![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomal9924&show_icons=true&theme=radical&hide=swift,ruby,objective-c,kotlin)](https://github.com/Tomal9924/github-readme-stats)
 
 
 <!--
