@@ -2,6 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=8DF75D&background=FF56C300&random=false&width=435&lines=Flutter+developer" alt="Typing SVG" /></a>
 
+🏛 Education<br />
+American International University - Bangladesh(AIUB).<br />
+Passing Year: 2019.<br />
+Major: Computer Science and Software Engineering.<br />
+
 💬 Topics I cover<br />
 
 • <b>Programming languages:</b> Dart,Java(Native android development)<br />
